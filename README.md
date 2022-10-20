@@ -29,7 +29,7 @@ Schedule and location:
  - Date and time: Three days during the Winter Semester. It will be announced in advance.
  - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 113.
  - Registration: send a mail to nastaran@mpi-sws.org with your name and matriculation number.
- - Topic selection and name of presenters: send an email to nastaran@mpi-sws.org by 02.12.21. Please, provide your preferred ranking for all the available topics and the name of the presenter(s).
+ - Topic selection and name of presenters: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics and the name of the presenter(s).
 
 ## Available topics
 

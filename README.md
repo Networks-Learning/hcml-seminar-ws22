@@ -15,9 +15,9 @@ instructor will be assigned to you to supervise you and provide advice for your 
 The presentations will take place 3-4 different days throughout the Winter semester. As a student, you will need to attend all presentations and 
 ask questions to the presenters. 
 
-Some important dates:
+Important dates:
 
-Topic selection and name of presenters: 02.12.21
+- Topic selection and name of presenters: 02.12.21
 
 Note: If you have any questions about the seminar, feel free to drop an email to Nastaran (nastaran@mpi-sws.org), Eleni (estraitouri@mpi-sws.org) or Stratis (stirtsis@mpi-sws.org).
 

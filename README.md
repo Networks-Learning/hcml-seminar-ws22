@@ -25,8 +25,8 @@ Note: If you have any questions about the seminar, feel free to drop an email to
 
 Schedule and location:
 
- - Room: Offline (Building G26, Room 113). A confirmation email will be sent out beforehand.
- - Date and time: Three days during the Winter Semester. It will be announced in advance.
+ - Room: Building G26, Room 113.
+ - Date and time: Three days during the Winter Semester. It will be announced beforehand.
  - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 113.
  - Registration: send a mail to nastaran@mpi-sws.org with your name and matriculation number.
  - Topic selection and name of presenters: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics and the name of the presenter(s).

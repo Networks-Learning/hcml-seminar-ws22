@@ -9,15 +9,14 @@ The seminar is open both for Bachelor and Master students.
 ## As a student
 
 You will read a few papers in one topic in human-centric machine learning and present an overview of the topic. There will be several
-possible topics to choose from (see below) and you can present alone or in small groups of 2-3 students. To help you with the presentation, an 
-instructor will be assigned to you to supervise you and provide advice for your presentation.
+possible topics to choose from (see below). To help you with the presentation, an instructor will be assigned to you to supervise you and provide advice for your presentation.
 
 The presentations will take place 3-4 different days throughout the Winter semester. As a student, you will need to attend all presentations and 
 ask questions to the presenters. 
 
 Important dates:
 
-- Topic selection and name of presenters: 02.12.21
+- Topic selection: 02.12.21
 
 Note: If you have any questions about the seminar, feel free to drop an email to Nastaran (nastaran@mpi-sws.org), Eleni (estraitouri@mpi-sws.org) or Stratis (stirtsis@mpi-sws.org).
 
@@ -29,7 +28,7 @@ Schedule and location:
  - Date and time: Three days during the Winter Semester. It will be announced beforehand.
  - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 113.
  - Registration: send a mail to nastaran@mpi-sws.org with your name and matriculation number.
- - Topic selection and name of presenters: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics and the name of the presenter(s).
+ - Topic selection: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics.
 
 ## Available topics
 

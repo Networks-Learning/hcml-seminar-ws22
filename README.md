@@ -20,16 +20,6 @@ Important dates:
 
 Note: If you have any questions about the seminar, feel free to drop an email to Nastaran (nastaran@mpi-sws.org), Eleni (estraitouri@mpi-sws.org) or Stratis (stirtsis@mpi-sws.org).
 
-## When and where
-
-Schedule and location:
-
- - Room: Building G26, Room 113.
- - Date and time: Three days during the Winter Semester. It will be announced beforehand.
- - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 113.
- - Registration: send a mail to nastaran@mpi-sws.org with your name and matriculation number.
- - Topic selection: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics.
-
 ## Available topics
 
 The available topics are the following:
@@ -42,6 +32,16 @@ The available topics are the following:
  - Human Machine Collaboration
  
 List of suggested papers for each topic can be found here: https://docs.google.com/document/d/1o7Rx9pbsMhn9ErR8n2owkIV6KALG9QVKgYqXjyHcLUg/edit?usp=sharing
+
+## When and where
+
+Schedule and location:
+
+ - Room: Building G26, Room 113.
+ - Date and time: Three days during the Winter Semester. It will be announced beforehand.
+ - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 113.
+ - Registration: send a mail to nastaran@mpi-sws.org with your name and matriculation number.
+ - Topic selection: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics.
 
 ## Instructors
 

@@ -38,9 +38,9 @@ A list of suggested papers for each topic can be found here: https://docs.google
 
 Schedule and location:
 
- - Room: Building G26, Room 113.
+ - Room: Building G26, Room 112.
  - Date and time: Three days during the Winter Semester. It will be announced beforehand.
- - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 113.
+ - Kickoff meeting: Wednesday 26.10.22 15:00 - 16:00, Building G26, Room 112.
  - Registration: send an email to nastaran@mpi-sws.org with your name and matriculation number.
  - Topic selection: send an email to nastaran@mpi-sws.org with your preferred ranking for all the available topics.
 
